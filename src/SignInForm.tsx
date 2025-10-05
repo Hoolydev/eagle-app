@@ -62,13 +62,6 @@ export function SignInForm() {
         </button>
       </form>
       
-      <div className="mt-4 p-3 bg-blue-50 border border-blue-200 rounded-md">
-        <p className="text-sm text-blue-700">
-          <strong>Credenciais de teste:</strong><br/>
-          Admin: admin@eagle.com / 123456<br/>
-          Usuário: silfrancys92@gmail.com / 123456
-        </p>
-      </div>
     </div>
   );
 }
