@@ -1,4 +1,10 @@
 {
+  "build": {
+    "env": {
+      "VITE_CONVEX_URL": "https://avid-jackal-629.convex.cloud",
+      "CONVEX_DEPLOYMENT": "avid-jackal-629"
+    }
+  },
   "env": {
     "VITE_CONVEX_URL": "https://avid-jackal-629.convex.cloud",
     "CONVEX_DEPLOYMENT": "avid-jackal-629"
